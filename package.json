@@ -1,6 +1,6 @@
 {
   "name": "preval.macro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pre-evaluate code at build-time with babel-macros",
   "main": "index.js",
   "keywords": [
