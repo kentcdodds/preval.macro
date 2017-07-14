@@ -22,7 +22,7 @@ haven't already.
 Once you've [configured `babel-macros`](https://github.com/kentcdodds/babel-macros/blob/master/other/docs/user.md)
 you can import/require `preval.macro`. For example:
 
-```source-js
+```js
 import preval from 'preval.macro'
 
 const one = preval`module.exports = 1 + 2 - 1 - 1`
