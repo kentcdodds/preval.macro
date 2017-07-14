@@ -11,7 +11,7 @@ This module is distributed via [npm][npm] which is bundled with [node][node] and
 should be installed as one of your project's `devDependencies`:
 
 ```
-npm install --save-dev babel-plugin-preval
+npm install --save-dev preval.macro
 ```
 
 You'll also need to install and configure [`babel-macros`][babel-macros] if you
