@@ -10,6 +10,6 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-preval": "^2.0.0"
+    "babel-plugin-preval": "^3.0.0"
   }
 }
