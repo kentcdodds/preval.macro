@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://codefund.io/properties/513/visit-sponsor">
+<img src="https://codefund.io/properties/513/sponsor" />
+</a>
+</p>
+
 # preval.macro
 
 This is a [`babel-plugin-macros`][babel-plugin-macros] macro for
