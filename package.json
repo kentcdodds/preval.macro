@@ -7,9 +7,20 @@
     "babel-macros",
     "babel-plugin-macros"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kentcdodds/preval.macro"
+  },
+  "bugs": {
+    "url": "https://github.com/kentcdodds/preval.macro/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/preval.macro#readme",
   "dependencies": {
-    "babel-plugin-preval": "^4.0.0"
+    "babel-plugin-preval": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=10"
   }
 }

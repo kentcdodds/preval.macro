@@ -36,7 +36,10 @@ than you have with this macro, but this macro comes with all the benefits of
 using [`babel-plugin-macros`][babel-plugin-macros] (which you can read about in
 the `babel-plugin-macros` docs).
 
-[npm]: https://www.npmjs.com/
+<!-- prettier-ignore-start -->
+[npm]: https://www.npmjs.com
 [node]: https://nodejs.org
+
 [babel-plugin-macros]: https://github.com/kentcdodds/babel-plugin-macros
 [babel-plugin-preval]: https://github.com/kentcdodds/babel-plugin-preval
+<!-- prettier-ignore-end -->
